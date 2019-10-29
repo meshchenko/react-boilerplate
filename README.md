@@ -1,2 +1,2 @@
 # react-boilerplate
-manual creating react project from scratch
+Creating react project from scratch
